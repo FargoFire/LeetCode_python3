@@ -13,7 +13,6 @@
 
     Date: 2019/06/01
     By: Fargo
-    Level: Easy
 """
 
 from typing import List
