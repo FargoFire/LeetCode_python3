@@ -11,7 +11,7 @@
 
     Date： 2019/06/02
     By: Fargo
-    Level: Medium
+    Difficulty: Medium
 """
 
 
